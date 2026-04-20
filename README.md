@@ -1,25 +1,20 @@
 # Tianle (Steven) Chen
 
-M.S. Student in Statistical Science @ Duke University  
-Research interests: Bayesian statistics, causal inference, statistical machine learning
+M.S. Student in Statistical Science @ Duke University
 
-## Current Work
+Research interests:  
+Bayesian statistics, causal inference, statistical machine learning
 
-- Bayesian hurdle models for zero-inflated clinical outcomes  
-- Representation learning for brain imaging data  
-- Computational methods in statistical modeling
+Current work:
+- Bayesian hurdle models for zero-inflated outcomes  
+- Representation learning for brain imaging data
 
-## Selected Experience
+Publication:  
+[Cancer Control (2025)](https://doi.org/10.1177/10732748251327715)
 
-- Research Assistant, Topo-Learning Lab (Duke)  
-- Madison Experimental Mathematics Lab  
-- Co-author, *Cancer Control* (2025)
+Tools:  
+Python • R • PyTorch • PyMC
 
-## Tools
-
-Python • R • PyTorch • PyMC • scikit-learn • LaTeX
-
-## Links
-
-Website: https://www.sttlchen.com  
-CV: https://www.sttlchen.com/files/CV-Tianle-Chen-25.10.pdf
+Links:
+- [Website](https://www.sttlchen.com)  
+- [CV](https://www.sttlchen.com/files/CV-Tianle-Chen-25.10.pdf)
